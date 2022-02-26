@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody plots against the Parliament, the city, and the kingdome, and against the godly Protestants, and such as seeke the peace of the kingdome. And a letter found in Martins Church, on Sunday, May 31. 1646. about a general rising threatned. This is licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76912</idno>
+            <idno type="STC">Wing B3291</idno>
+            <idno type="STC">Thomason E339_16</idno>
+            <idno type="STC">ESTC R200861</idno>
+            <idno type="EEBO-CITATION">99861487</idno>
+            <idno type="PROQUEST">99861487</idno>
+            <idno type="VID">159726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159726)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E339[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody plots against the Parliament, the city, and the kingdome, and against the godly Protestants, and such as seeke the peace of the kingdome. And a letter found in Martins Church, on Sunday, May 31. 1646. about a general rising threatned. This is licensed according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.P.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Iune 4. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159726:1" rendition="simple:additions"/>
+            <p>BLOODY PLOTS Againſt the PARLIAMENT, the CITY, and the KINGDOME, AND Againſt the godly Proteſtants, and ſuch as ſeeke the peace of the Kingdome.</p>
+            <p>And a Letter found in <hi>Martins</hi> Church, on Sunday, <hi>May</hi> 31. <hi>1646.</hi> about a generall riſing threatned.</p>
+            <p>This is Licenſed according to Order.</p>
+            <p>LONDON: Printed for <hi>E. P. Iune</hi> 4. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:159726:2"/>
+            <pb n="1" facs="tcp:159726:2"/>
+            <head>Bloody Plots againſt the Parliament, the Citie, and the Kingdome.</head>
+            <p>THe crimſon hearted Jeſuite (as if tyranny was the onely way to be happy) bids Kill, Murder, Root out, and deſtroy the Proteſtants, and therefore barbarouſly cryes out Blood, Fire; Let the Heretiques be cut off, and <hi>Rome</hi> ſhall (like a gratefull Matron) Canonize you: If you ſpare neither man, woman, nor child, you ſhall be remembred by the higher dignities, this is the damnable doctrine of the Papiſts, that ſo much envie a<g ref="char:EOLhyphen"/>gain<g ref="char:EOLhyphen"/>ſt the Parliament, Citie, and Kingdome.</p>
+            <p>Many bitter Cups have beene prepared for <hi>London,</hi> yet the dregs given to thoſe that mixt the poyſon; and thus; <hi>Let all thine enemies periſh O Lord.</hi>
+            </p>
+            <p>What plotting had wear the beginning of the Parlia<g ref="char:EOLhyphen"/>ment, to get the Lord <hi>Strafford</hi> (Deputie of <hi>Ireland,</hi> out of the Tower: And firſt, men in armes appoynted to break in, and a ſecond, and their commotions to follow it till he was reſcued; and yet, by a Letter, it being diſcovered, then tooles were brought unto him, by which he cut the hand from barres, and a Veſſell was prepared to have met him on Tower-Hill to have eſcaped, but all was preven<g ref="char:EOLhyphen"/>ted; Then Articles were prepared againſt ſome Members to take away their lives, becauſe they Acted ſo faithfully and couragiouſly, for the Kingdome that intruſted them, and the like was againſt ſome godly Miniſters, and others; The Papiſts, bloody Biſhops, all this while went Jeſuiti<g ref="char:EOLhyphen"/>cally on in their deſignes, to make a ſtrength to reſt in
+<pb n="2" facs="tcp:159726:3"/>this Kingdome, as they had barbarouſly murdered ſo m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ny in <hi>Ireland,</hi> and the Lord <hi>Herbert</hi> of <hi>Rag<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> now Earle of <hi>Glamorgan,</hi> made his houſe in <hi>Wales</hi> a ſtrong Garriſon, where <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te the councell of Jeſuites, and to this day do ſtill continue and order the buſineſſe there for the Papiſts, as the Lords doe at <hi>Oxford</hi> for the King: they have (to this day) their Agents in all parts of the Kingdome, &amp; Scouts and Spies, and doe exceedingly diſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urbe our peace.</p>
+            <p>A young man, that was a Taylor in <hi>White-croſſe-ſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eet,</hi> heard ſome, that there was a Plot to murder divers of the Parliament men, &amp; thoſe who was their chiefe men in the Citie, and the reſt of the worke would be the more eaſily done; but they eſpying him, drew their Swords, he ranne, they after him, &amp; one of them run his Rapier through his cloak, ſhort coat and breeches, hardly eſcaping with his life, and before he could Alarm any to purſue them, they were vaniſhed.</p>
+            <p>A Letter was intercepted, which declared the manner how the Papiſts and Malignants had ordered the buſineſſe in their intentions, and given directions to maſſacre the Citie, <hi>viz.</hi> That as ſeverall Churches, where the moſt po<g ref="char:EOLhyphen"/>pulous meetings are, that on a Lords day appoynted, when they were all at Church, and unprepared then to riſe, and with ſeverall parties fall on the Congregations at the ſaid ſeverall places, and put them all to the ſword, but a ſtrong guard being that day in all parts of the Citie, they durſt not attempt their intended deſigne.</p>
+            <p>Then they fell to particular wayes of Acting, as amongſt the reſt, a Cavalier, Jeſuited Rogue, tooke the plaiſter of a Plague ſore, with the matter on it, and incloſed it in a Letter, directed to <hi>John Pym</hi> Eſquire, telling him, that he was ſick of the Plague, and had ſent him that, and that if it went not to his heart, his dagger ſhould, this was brought
+<pb n="3" facs="tcp:159726:3"/>to him to the houſe of Commons by a Porter, but (through Gods mercy) did no hurt at all.</p>
+            <p>And to act their deſignes the better, firſt <hi>Lunsford,</hi> then <hi>Byron,</hi> were made Lieutenants of the Tower, who were no<g ref="char:EOLhyphen"/>table Agents for the Popiſh partie, and have ſince beene there great Champions, the one at <hi>Ragland</hi> with the Jeſu<g ref="char:EOLhyphen"/>ites, the other at <hi>Chester</hi> with the Iriſh Rebels; but theſe, by the conſent of the King and Parliament were ſoone turned out, which was a great mercy, but they are ſtill in armes againſt the Parliament, and the very neſt of Romiſh frogs ſwarme, in Wales, with them.</p>
+            <p>They never reſted til they had raiſed a warre againſt the Parliament, and by men, armes, and monies, got into the Kings Camp, and have murdered many godly Proteſtants, and ſtill labour, by all their wiles and ſubtilties to ruine the people of God, but the Lord hath ſtill effectuated all their councells, and turned their bloody deviſes upon their owne pates.</p>
+            <p>They have ſought by treachery to have had many Towns and Garriſons betrayed to them, as <hi>Briſtol, Abington,</hi> and others, where <hi>Digby</hi> and the reſt of them have been ſhame<g ref="char:EOLhyphen"/>fully foyled; yet ſome they have gotten by treachery, as <hi>Waymouth</hi> and others, which they have not bin able to keep, but have ſhortly after been beaten out againe, with very great loſſe.</p>
+            <p>They have ſought by all their wiles and ſtratagems, to have <hi>London</hi> betrayd to them, corrupted the Lord Major, who for his malignancy was ordered to be committed to the Tower, and the malignant Recorder Sir <hi>Tho. Gardiner,</hi> fled to the King.</p>
+            <p>Then they plotted with <hi>Tompkins, Chall<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> and the reſt of that conſpiracy, to deſtroy the Citie, but the chiefe plotters were apprehended and hanged.</p>
+            <pb n="4" facs="tcp:159726:4"/>
+            <p>And forraigne forces were ſent for, one armie of P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>piſts from the Duke of <hi>Loraine,</hi> another of Iriſh Rebells, but thoſe Iriſh Rebells were but a moth and a canker to the reſt many thouſand of thoſe murdering Villaines have bin ſlaine in <hi>England,</hi> for there is juſtly a great heart burn<g ref="char:EOLhyphen"/>ing againſt them, eſpecially for their bloody maſſacres at <hi>Boulton, Middlewith,</hi> and elſewhere, and we hanged 13 of thoſe Popiſh Iriſh Rebells at <hi>Shrewsbury,</hi> Prince <hi>Rupert</hi> then hanged 13 godly Proteſtants for them.</p>
+            <p>The plot alſo carried on with Mr. <hi>Ryley</hi> (whoſe ſimpli<g ref="char:EOLhyphen"/>city inſtead of advancing him, was his overthrow) the Scout-Maſter-Generall of <hi>London,</hi> that deſign of their working with him, they were defeated in.</p>
+            <p>But they had other wayes beſides all theſe, and thoſe ve<g ref="char:EOLhyphen"/>ry ſubtle, the Malignants about London, got many hands to a petition pretending for peace, and by that way en<g ref="char:EOLhyphen"/>deavoured by petitioning the parliament, to have made an uprore, but they were quelled.</p>
+            <p>Many treaties have beene propounded, which were onely plots for the carrying on of their deſignes againſt us; amongſt the reſt, when the Commiſſioners were within the Line, and after ſate at Uxbridge, and gathered, and carryed away much monies from London, and gained upon the neutrall affections.</p>
+            <p>Then one Herne a malignant Lawyer came up, and having pow<g ref="char:EOLhyphen"/>er from the King, cauſed a common hall to be called, and the City met at Guild, hall, where ſome malignants were diſcovered in Gownes that were no Common-Councell men; amongſt the reſt a Proctor of Pauls.</p>
+            <p>Others brought Writs and Proclamations from the King, who lay here as leaguer-Spyes, and once a moneth, or ſo, went to Ox<g ref="char:EOLhyphen"/>ford. One Kniſton one of them, who was diſcovered, and hanged before the Exchange.</p>
+            <p>But their petitioning by the Malignant party here of men failing, then the women they petitioned, preſuming they might take upon
+<pb n="5" facs="tcp:159726:4"/>them the more liberty of their tongues, and they would have made a mutiny that way; which not taking, becauſe ſuppreſt by the care of the Parliament, then they ſent their ſervants and thought to have made an inſurrection by the London prentices, but the greateſt part were better qualified, and thoſe who laboured it, were ſoon over-powred, and ſtill God preſerved the City and the Parli<g ref="char:EOLhyphen"/>ament.</p>
+            <p>They got Agents into the Lord Genrals Quarters, who blew up his Traine, and then his Army ſhould have been fallen upon, and at other times did us much miſchiefe, yet God preſerved him, that they never conquered him. They corrupted Hotham and his ſon, that they oppoſed the Lord Fairfax when they ſhould have ſupplied him, which was the breaking of the northern Forces, yet God pre<g ref="char:EOLhyphen"/>ſerved him, and thoſe two treacherous wretches both were behea<g ref="char:EOLhyphen"/>ded at Tower-hill.</p>
+            <p>They had Agents to raiſe Forces in the Aſſociation for them, but were ſeverall times ſubdued in <hi>Kent,</hi> divers plot<g ref="char:EOLhyphen"/>ters taken: And the like at <hi>Lin Regis,</hi> where Maſter <hi>Le Strange,</hi> being apprehended, was tryed in <hi>London</hi> by a Councell of warre, and condemned to dye; and ſtill God preſerved the Aſſociation. They have ſeverall times com<g ref="char:EOLhyphen"/>plotted with their Agents in <hi>London,</hi> to have maſſacred the City, to have murdered the Parliament, and cut the throats of the moſt godly and ſincere Proteſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts, and have ſet out to themſelves who ſhall act in their ſeverall parts, and to bring to effect all this upon us and then who ſhall have their ſhares in plundering ſuch and ſuch ſtreets, and ſuch and ſuch houſes, being reſolved to raviſh the Citizens wives and daughters, and take all their eſtates, and poſſeſſe themſelves of their houſes, and murder their husbands and the godly Miniſters, and place Jeſuited, E<g ref="char:EOLhyphen"/>piſcopall, Papall, deboiſt fellowes in their ſtead, even ſuch as ſhould applaud all theſe bloody and wicked acti<g ref="char:EOLhyphen"/>ons, and encourage them therein.</p>
+            <pb n="6" facs="tcp:159726:5"/>
+            <p>And we may remember how the laſt year they had their Agents here in London to fire divers parts of the City. Some houſes were fired neere the Magazine at Guild-hall, others in Newgate-Mar<g ref="char:EOLhyphen"/>ket, and others in the Old-Baily, where had they not been quen<g ref="char:EOLhyphen"/>ched, they had burnt to Newgate and the Fleet, in both which pla<g ref="char:EOLhyphen"/>ces are many of the Cavaliers and a fire was begun (not long ſince) in the Fleet priſon, and divers other places in London, as neere Tower-hill, and in Southwarke, and other places were the laſt yeare ſet on fire, to the great loſſe of many honeſt godly people.</p>
+            <p>When Sir Thomas Fairfax had newly been entred Generall with an handfull of his Army, then they plotted to have Abingdon, Plymouth, and divers others of our Garriſons betrayed to them, but failed, and at Nayſeby they were confident to have deſtroyed him, yet God gave us then a moſt glorious victory by him.</p>
+            <p>They laboured to decide between the Scots and us, and the Presbyterians and Independants, and ſo to get in with one party to deſtroy the other; and in the acting hereof they have had very cunning Jeſuites, but God hath hitherto blaſted all their plots, and it is to be wiſhed of all that love peace, that the more they labour to foment, the more we ſhould ſtrive to unite.</p>
+            <p>But there is againe another plot in hand, and divers of them that are gone beyond Sea, ſay, that they have a party in London for them, that are ſo conſiderable, that they hope to conquer us ſtill, and at laſt to have their ends: Sir Jacob Aſhley when he was ta<g ref="char:EOLhyphen"/>ken, told our men, that they ſhould yet conquer us by our owne diviſions: But all this while, the plot againſt the City goes on, and that no leſſe then fire and ſword to burne the City in divers places, to breake open the priſon doores, and riſe at the ſame time, ſet the City in an uprore, and preſently make a maſſacre upon the City and the Parliament; and therefore the Parliament have thought fit to publiſh an Order for the turning of the Malignants out of the Line; and one Neale was committed cloſe priſoner to the Provoſt Marſhiall of the Court Martiall.</p>
+            <p>On the Lords day, May 31. 1646. a Letter was found in the Pariſh-Church of Martins in the fields neer Charing-Croſſe, which was ſhewed to the honourable the Earle of Salisbury, and others, where was written thus:</p>
+            <p>If the King come not immediatly, we will all riſe preſently, &amp;c.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
